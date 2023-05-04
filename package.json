@@ -1,7 +1,7 @@
 {
   "author": "Auth0",
   "name": "@oqton/auth0-react",
-  "version": "2.0.2",
+  "version": "2.0.2-1",
   "description": "Auth0 SDK for React Single Page Applications (SPA)",
   "keywords": [
     "auth0",
