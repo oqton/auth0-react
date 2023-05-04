@@ -9,7 +9,7 @@ import {
   User,
   GetTokenSilentlyVerboseResponse,
   RedirectLoginOptions as SPARedirectLoginOptions,
-} from '@auth0/auth0-spa-js';
+} from '@oqton/auth0-spa-js';
 import { createContext } from 'react';
 import { AuthState, initialAuthState } from './auth-state';
 import { AppState } from './auth0-provider';

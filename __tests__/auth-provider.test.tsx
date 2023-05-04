@@ -9,7 +9,7 @@ import { renderHook, act } from '@testing-library/react-hooks';
 import {
   Auth0Client,
   GetTokenSilentlyVerboseResponse,
-} from '@auth0/auth0-spa-js';
+} from '@oqton/auth0-spa-js';
 import pkg from '../package.json';
 import { createWrapper } from './helpers';
 import { Auth0Provider, useAuth0 } from '../src';
