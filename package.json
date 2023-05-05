@@ -43,13 +43,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/auth0/auth0-react.git"
+    "url": "git+https://github.com/oqton/auth0-react.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/auth0/auth0-react/issues"
+    "url": "https://github.com/oqton/auth0-react/issues"
   },
-  "homepage": "https://github.com/auth0/auth0-react#readme",
+  "homepage": "https://github.com/oqton/auth0-react#readme",
   "devDependencies": {
     "@rollup/plugin-node-resolve": "^15.0.1",
     "@rollup/plugin-replace": "^5.0.1",
